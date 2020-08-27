@@ -1,0 +1,3 @@
+server_ip user pkg1 pkg2
+172.31.12.1 tomcat tree elinks
+172.31.3.12 automation httpd firewalld
